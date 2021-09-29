@@ -1,0 +1,5 @@
+.gradle
+.idea
+*.txt
+build
+allure-results
