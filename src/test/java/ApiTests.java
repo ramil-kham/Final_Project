@@ -17,8 +17,8 @@ import pojo.LoginViewModel;
 import java.util.*;
 
 import static io.restassured.RestAssured.given;
-@Epic("It's API tests")
-@Feature("Api tests")
+@Epic("APItests")
+@Feature("BookStoreAPItests")
 @Tag("api")
 public class ApiTests {
     Map<String, String> body = new HashMap<>();
